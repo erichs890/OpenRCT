@@ -1,0 +1,8 @@
+0.1 (2026-10-17)
+------------------------------------------------------------------------
+- Feature: Launcher com escolha da pasta do jogo, validação do RCT.EXE e opções de vídeo.
+- Feature: Abrir saves e cenários com --open ou arrastando o arquivo para o exe.
+- Feature: Tela moderna: qualquer resolução, widescreen, tela cheia sem bordas, zoom dinâmico.
+- Feature: Zoom do mapa 2x e 4x além do zoom mais próximo do original.
+- Improved: Pixels nítidos em telas de alta densidade.
+- Technical: 42 funções do jogo reconstruídas em C e verificadas contra o original (saves SV4/SC4, suportes, viewport, sistema de pintura).

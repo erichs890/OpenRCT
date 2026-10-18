@@ -1,0 +1,8 @@
+original/
+.analysis/
+__pycache__/
+*.obj
+*.pdb
+*.ilk
+build/
+/dist/
